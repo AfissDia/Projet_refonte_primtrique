@@ -1,4 +1,4 @@
-# Projet 5 — Refonte de la sécurité périmétrique | AtlasCloud
+# Projet 5 - Refonte de la sécurité périmétrique | AtlasCloud
 
 ![Statut](https://img.shields.io/badge/PoC-valid%C3%A9-brightgreen) ![Licence](https://img.shields.io/badge/licence-MIT-blue)
 
